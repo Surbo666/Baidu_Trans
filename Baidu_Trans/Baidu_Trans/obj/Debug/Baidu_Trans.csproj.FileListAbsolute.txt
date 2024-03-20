@@ -1,0 +1,9 @@
+E:\汇编垃圾\Baidu_Trans\Baidu_Trans\bin\Debug\Baidu_Trans.exe.config
+E:\汇编垃圾\Baidu_Trans\Baidu_Trans\bin\Debug\Baidu_Trans.exe
+E:\汇编垃圾\Baidu_Trans\Baidu_Trans\bin\Debug\Baidu_Trans.pdb
+E:\汇编垃圾\Baidu_Trans\Baidu_Trans\obj\Debug\Baidu_Trans.csprojAssemblyReference.cache
+E:\汇编垃圾\Baidu_Trans\Baidu_Trans\obj\Debug\Baidu_Trans.csproj.CoreCompileInputs.cache
+E:\汇编垃圾\Baidu_Trans\Baidu_Trans\obj\Debug\Baidu_Trans.exe
+E:\汇编垃圾\Baidu_Trans\Baidu_Trans\obj\Debug\Baidu_Trans.pdb
+E:\汇编垃圾\Baidu_Trans\Baidu_Trans\bin\Debug\fastJSON.dll
+E:\汇编垃圾\Baidu_Trans\Baidu_Trans\obj\Debug\Baidu_Trans.csproj.CopyComplete
